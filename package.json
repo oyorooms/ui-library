@@ -108,7 +108,7 @@
     "@ctrl/tinycolor": "^3.6.1",
     "@rc-component/color-picker": "~2.0.1",
     "@rc-component/mutate-observer": "^1.1.0",
-    "@rc-component/qrcode": "~1.0.0",
+    "@rc-component/qrcode": "~2.0.0",
     "@rc-component/tour": "~1.15.0",
     "@rc-component/trigger": "^2.2.1",
     "classnames": "^2.5.1",
